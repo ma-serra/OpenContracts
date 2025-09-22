@@ -44,6 +44,8 @@ theme:
 nav:
   - Home:
     - About: index.md
+    - What Does It Do?: what-does-it-do.md
+    - O que faz? (Portuguese): o-que-faz.md
     - Philosophy: philosophy.md
     - Quick Start: quick_start.md
     - System Requirements: requirements.md
