@@ -55,6 +55,7 @@ OpenContracts provides several key features:
 We recommend you [browse our docs](https://jsv4.github.io/OpenContracts/) via our Mkdocs Site. You can also view the 
 docs in the repo:
 
+0. **[O que faz? (Portuguese)](docs/o-que-faz.md)** - Explicação completa do que faz o OpenContracts em português
 1. [Quickstart Guide](docs/quick_start.md) - You'll probably want to get started quickly. Setting up locally should be
    pretty painless if you're already running Docker.
 2. [Basic Walkthrough](docs/walkthrough/key-concepts.md) - Check out the walkthrough to step through basic usage of the
