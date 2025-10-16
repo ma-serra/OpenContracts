@@ -105,6 +105,16 @@ At the moment, we only support PDF and text-based formats (like plaintext and MD
 
 ## Production Deployment
 
+### Frontend-Only Deployment (Vercel)
+
+For quick deployment of just the frontend interface:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ma-serra/OpenContracts&project-name=opencontracts&repository-name=OpenContracts)
+
+**Note**: This deploys only the React frontend. You'll need to deploy the backend services separately. See [Vercel Deployment Guide](VERCEL_DEPLOY.md) for complete instructions.
+
+### Full Stack Deployment (Docker)
+
 For production deployments, OpenContracts includes a dedicated migration service to ensure database schema updates are applied correctly and efficiently:
 
 ### Database Migrations
